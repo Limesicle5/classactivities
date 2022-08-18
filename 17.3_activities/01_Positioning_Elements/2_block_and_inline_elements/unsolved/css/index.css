@@ -2,17 +2,11 @@
   width: 355px;
   background-color: lightblue;
   padding: 35px;
-/* Add margin here. */
-/* Add text align below */
+  /* Add margin here. */
+  margin: 0 auto;
+  /* Add text align below */
+  text-align: right;
 }
-
-
-
-
-
-
-
-
 
 /* These styles are just used to create our mock get started form */
 section {

@@ -1,8 +1,17 @@
 h1 {
- font-family: helvetica, arial, sans-serif;
+  font-family: helvetica, arial, sans-serif;
 }
 /* Write your selector for .left below */
-
+img.left {
+  float: left;
+  padding-right: 15px;
+}
 /* Write your selector for .right below */
-
+img.right {
+  float: right;
+  padding-left: 15px;
+}
 /* Write your selector for .separator below */
+.separator {
+  width: 750px;
+}
